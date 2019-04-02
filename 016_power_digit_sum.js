@@ -1,0 +1,1 @@
+console.log(BigInt(Math.pow(2, 1000)).toString().split('').reduce(function(acc, cur) { return acc + parseInt(cur); }, 0));
