@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "big.js": "^5.2.2"
+    "big.js": "^5.2.2",
+    "decimal.js": "^10.1.1"
   }
 }
